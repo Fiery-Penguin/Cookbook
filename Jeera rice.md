@@ -1,5 +1,4 @@
 #Indian 
-[[Cookbook|Return]] 
 ## Ingredients (For 2 people)
 ___
 - [ ] 180g rice

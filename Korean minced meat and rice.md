@@ -1,5 +1,4 @@
 #Asian 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [ ] 250 g minced meat

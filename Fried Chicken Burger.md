@@ -1,5 +1,4 @@
 #Unhealthy #Chicken
-[[Cookbook|Return]] 
 ## Ingredients (2 Burgers)
 ___
 **Chicken**

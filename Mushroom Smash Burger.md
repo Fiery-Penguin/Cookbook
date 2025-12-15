@@ -1,5 +1,4 @@
 #Vegetarian 
-[[Cookbook|Return]] 
 ## Ingredients (2 large burgers)
 ___
 - [ ] 2 Buns, cut through

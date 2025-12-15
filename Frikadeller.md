@@ -1,5 +1,4 @@
 #Vegetarian #Danish #Egg #Classic
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [ ] 500g Pea Protein Mince

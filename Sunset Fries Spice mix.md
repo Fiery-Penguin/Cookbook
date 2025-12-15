@@ -1,5 +1,4 @@
 #Vegetarian 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 **Spice mix**

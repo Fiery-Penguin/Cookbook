@@ -1,5 +1,4 @@
 #Vegetarian #Italian 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 **Filling**

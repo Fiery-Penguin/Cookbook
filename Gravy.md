@@ -1,5 +1,4 @@
 #Sauce #Danish 
-[[Cookbook|Return]] 
 ## Ingredients (350 g)
 ___
 - [ ] 20 g Butter

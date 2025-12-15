@@ -1,5 +1,4 @@
 #Yeast #Flour #Butter
-[[Cookbook|Return]] 
 ## Ingredients (30 Stk)
 ___
 - [ ] 50 g Yeast

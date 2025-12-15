@@ -3,7 +3,6 @@ aliases:
   - Pasta
 ---
 #Italian #Flour #Egg 
-[[Cookbook|Return]]
 ## Ingredients (300 g Pasta)
 ___
 - [ ] 2 Eggs (120g)

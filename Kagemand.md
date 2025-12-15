@@ -1,5 +1,4 @@
 #Cinnamon #Flour #Egg #Yeast 
-[[Cookbook|Return]] 
 ## Ingredients (20 People) (Tid i alt: 4 Timer) (Arbejdstid: 30 min)
 ___
 **Fyld**

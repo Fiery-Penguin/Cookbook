@@ -5,7 +5,6 @@ Aliases:
 ---
 
 #Asian #Chicken #Pinaple 
-[[Cookbook|Return]]
 ## Ingredients (4 people I think)
 ___
 **Marinade**

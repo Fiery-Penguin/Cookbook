@@ -1,5 +1,4 @@
 #Vegetarian #Recipe/Spanish 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [ ] 2 onions, chopped coarsely

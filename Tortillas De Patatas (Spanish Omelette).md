@@ -1,5 +1,4 @@
 #Recipe/Spanish #Egg #Potato 
-[[Cookbook|Return]]
 ## Ingredients (For 4 servings)
 ___
 - [ ] 800 g Potato, cut into thin slices

@@ -1,5 +1,4 @@
 #Asian #Coconut #Mushrooms #Chicken 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [x] 250 g Chicken, in bits

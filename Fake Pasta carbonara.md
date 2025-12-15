@@ -1,5 +1,4 @@
 #Italian 
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [ ] Pasta

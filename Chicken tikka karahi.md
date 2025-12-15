@@ -1,5 +1,4 @@
 #Indian #Chicken
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 **Chicken**

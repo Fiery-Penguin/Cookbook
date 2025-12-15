@@ -1,5 +1,4 @@
 #Bread 
-[[Cookbook|Return]] 
 ## Ingredients (2 Gyros)
 ___
 **Meat**

@@ -1,5 +1,4 @@
-
-[[Cookbook|Return]] 
+#Chicken 
 ## Ingredients (2 Hungry people)
 ___
 - [ ] 450 g Ground Chicken

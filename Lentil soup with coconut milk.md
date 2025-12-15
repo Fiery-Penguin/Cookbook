@@ -1,5 +1,4 @@
 #Vegetarian 
-[[Cookbook|Return]] 
 ## Ingredients (For 2 people)
 ___
 - [ ] 1 Onion, Coarsely chopped

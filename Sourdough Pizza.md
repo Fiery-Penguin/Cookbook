@@ -5,7 +5,6 @@ aliases:
 ---
 
 #Pizza #Sourdough #Recipe/Italian
-[[Cookbook|Return]]
 ## Ingredients (for 2x 400 g Pizzas )
 ___
 - [ ] 423 g All purpose flour

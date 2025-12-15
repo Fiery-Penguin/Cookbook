@@ -3,9 +3,7 @@ aliases:
 - Flæskesteg
 - Flæsk
 ---
-
 #Pork
-[[Cookbook|Return]] 
 ## Ingredients
 ___
 - [ ] 3 kg Pork

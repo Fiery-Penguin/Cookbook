@@ -28,7 +28,7 @@ ___
 > - Marmite adds some tang and umami. highly recommended 
 > - To add volume and save money, maybe add mushrooms, carrots and other veggies
 > - For more environmentally friendly dishes, see [[vegetarian bolognese]]
-> - Obviously, if you don't use [[fresh pasta]], cook the pasta for longer until it feels done when you eat it
+> - Obviously, if you don't use [[Fresh Pasta]], cook the pasta for longer until it feels done when you eat it
 
 #### Changelog
 ___

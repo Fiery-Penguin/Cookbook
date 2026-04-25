@@ -6,25 +6,25 @@ aliases:
 # Cuisines 
 ___
 #### [🍕 Southern European](Southern%20European.md)
-#### [🍣 Asian](Asian)
-#### [🥙 Middle Eastern](Middle%20Eastern)
-#### [🇩🇰 Danish](Danish)
-#### [📁 Mics.](Miscellaneous%20Foods)
+#### [🍣 Asian](Asian.md)
+#### [🥙 Middle Eastern](Middle%20Eastern.md)
+#### [🇩🇰 Danish](Danish.md)
+#### [📁 Mics.](Miscellaneous%20Foods.md)
 
 # Misc.
 ___
-#### [🥖 Bread](Bread)
-#### [🍰 Desserts](Desserts)
-#### [🫙 Condiments](Condiments)
+#### [🥖 Bread](Bread.md)
+#### [🍰 Desserts](Desserts.md)
+#### [🫙 Condiments](Condiments.md)
 
 # Beverages
 ___
-#### [📁 Mics.](Misc%20Beverages)
-#### [🍸 Drinks](Drinks)
+#### [📁 Mics.](Misc%20Beverages.md)
+#### [🍸 Drinks](Drinks.md)
 
 # Spices
 ___
-[Spice list](Spice%20list)
+[Spice list](Spice%20list.md)
 
 # Literature
 ___

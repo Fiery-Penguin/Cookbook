@@ -1,4 +1,4 @@
-- [Mayonnaise](Mayonnaise.md)
-- [Pickled Cucumber](Pickled%20Cucumber.md)
-- [Honey Mustard](Honey%20Mustard.md)
-- [BBQ Marinade](BBQ%20Marinade.md)
+- [Mayonnaise](/Recipes/Mayonnaise.md)
+- [Pickled Cucumber](/Recipes/Pickled%20Cucumber.md)
+- [Honey Mustard](/Recipes/Honey%20Mustard.md)
+- [BBQ Marinade](/Recipes/BBQ%20Marinade.md)

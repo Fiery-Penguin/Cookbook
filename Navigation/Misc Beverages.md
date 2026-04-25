@@ -1,4 +1,4 @@
-- [Iced Tea](Iced%20Tea.md)
-- [Christmassy-beverage](Christmassy-beverage.md) *(empty)*
-- [Hot Cocoa](Hot%20Cocoa.md)
-- [Chai The](Chai%20The.md) (empty)
+- [Iced Tea](/Recipes/Iced%20Tea.md)
+- [Christmassy-beverage](/Recipes/Christmassy-beverage.md) *(empty)*
+- [Hot Cocoa](/Recipes/Hot%20Cocoa.md)
+- [Chai The](/Recipes/Chai%20The.md) (empty)

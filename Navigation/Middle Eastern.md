@@ -1,2 +1,2 @@
-- [Shawarma](Shawarma.md)*(incomplete)*
-- [Lentil soup with coconut milk](Lentil%20soup%20with%20coconut%20milk.md)
+- [Shawarma](/Recipes/Shawarma.md)*(incomplete)*
+- [Lentil soup with coconut milk](/Recipes/Lentil%20soup%20with%20coconut%20milk.md)

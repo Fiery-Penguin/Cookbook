@@ -1,18 +1,19 @@
 # Cuisines 
 ___
-### [[Southern European|🥘 Southern European]]
-### [[Asian|🍣 Asian]]
-### [[Middle Eastern|🥙 Middle Eastern]]
-### [[Danish|🇩🇰 Danish]]
-### [[Miscellaneous Foods|📁Mics.]]
+#### [🍕 Southern European](Southern%20European.md)
+#### [🍣 Asian](Asian)
+#### [🥙 Middle Eastern](Middle%20Eastern)
+#### [🇩🇰 Danish](Danish)
+#### [📁 Mics.](Miscellaneous%20Foods)
 
 # Misc.
 ___
-### [[Bread|🥖 Bread]]
-### [[Desserts|🍰 Desserts]]
-### [[Condiments|🫙Condiments]]
+#### [🥖 Bread](Bread)
+#### [🍰 Desserts](Desserts)
+#### [🫙 Condiments](Condiments)
 
 # Beverages
 ___
-### [[Misc Beverages|📁 Mics.]]
-### [[Drinks|🍸 Drinks]]
+#### [📁 Mics.](Misc%20Beverages)
+#### [🍸 Drinks](Drinks)
+

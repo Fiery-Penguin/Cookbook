@@ -5,27 +5,30 @@ aliases:
 
 # Cuisines 
 ___
-### [[Southern European|🥘 Southern European]]
-### [[Asian|🍣 Asian]]
-### [[Middle Eastern|🥙 Middle Eastern]]
-### [[Danish|🇩🇰 Danish]]
-### [[Miscellaneous Foods|📁Mics.]]
+#### [[Southern European|🍕 Southern European]]
+#### [[Asian|🍣 Asian]]
+#### [[Middle Eastern|🥙 Middle Eastern]]
+#### [[Danish|🇩🇰 Danish]]
+#### [[Miscellaneous Foods|📁 Mics.]]
 
 # Misc.
 ___
-### [[Bread|🥖 Bread]]
-### [[Desserts|🍰 Desserts]]
-### [[Condiments|🫙Condiments]]
+#### [[Bread|🥖 Bread]]
+#### [[Desserts|🍰 Desserts]]
+#### [[Condiments|🫙 Condiments]]
 
 # Beverages
 ___
-### [[Misc Beverages|📁Mics.]]
-### [[Drinks|🍸 Drinks]]
+#### [[Misc Beverages|📁 Mics.]]
+#### [[Drinks|🍸 Drinks]]
 
+# Spices
+___
+[[Spice list]]
 
 # Literature
 ___
-![[Pasted image 20240822160032.png|900]]
+![[Pasted image 20240822160032.png|697]]
 ___
 ## Sommer
 Agurk, asparges, bladbeder, bladselleri, blomkål, broccoli, bønner, forårsløg, gulerødder, hvidkål, kantarel, kartofler, kinakål, løg, majs,  persille, porrer, purløg, rabarber, radiser, rørhat, salat, spidskål, spinat, squash, sølvbeder, tomater, ærter

@@ -22,7 +22,7 @@ ___
 3. Discard water
 
 > [!info] Tip
->If you have a Pasta roller, please my god use that instead oh god of fuck is swear i beg oh god.
+>If you have a Pasta roller, please my god use that instead oh god of fuck i swear i beg oh god.
 
 #### Changelog
 ___

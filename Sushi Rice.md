@@ -1,4 +1,4 @@
-For 4 rolls:
+For 5 rolls:
 
 **Ris**
 - [ ] 250 g rice (grød/sushi)

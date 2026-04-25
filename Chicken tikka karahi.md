@@ -2,19 +2,19 @@
 ## Ingredients
 ___
 **Chicken**
-- [ ] 500 g Chicken
-- [ ] Lemon Juice
-- [ ] 2 Tsp Kashmiri chilli powder (not spicy)
+- [x] 500 g Chicken
+- [x] Lemon Juice
+- [x] 2 Tsp Kashmiri chilli powder (not spicy)
 - [ ] 1 Tsp Salt
-- [ ] 1/4 Tsp Turmeric
-- [ ] 1 Tsp Coriander
-- [ ] 1 Tsp Garam Masala
-- [ ] 1 Tsp Red Chilli powder
+- [x] 1/4 Tsp Turmeric
+- [x] 1 Tsp Coriander
+- [x] 1 Tsp Garam Masala
+- [x] 1 Tsp Red Chilli powder
 
 **Sauce**
-- [ ] 1 Large Onion, chopped
-- [ ] 1 Cup Yoghurt
-- [ ] 1/2 Canned Tomato (Or 4 large tomatoes)
+- [x] 1 Large Onion, chopped
+- [x] 1 Cup Yoghurt
+- [x] 1/2 Canned Tomato (Or 4 large tomatoes)
 - [ ] 1 Tsp Chaat Masala (Can be substituted with Garam Masala)
 - [ ] 2 Tsp Red Chilli powder
 - [ ] 2 Tsp Black Pepper
@@ -24,8 +24,8 @@ ___
 - [ ] 1 Tsp Salt
 
 **Additional**
-- [ ] [[Jeera rice]]
-- [ ] thin strips of ginger
+- [x] [[Jeera rice]]
+- [x] thin strips of ginger
 - [ ] coarsely chopped cilantro
 ## Walkthrough
 ___

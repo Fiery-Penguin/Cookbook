@@ -2,14 +2,14 @@
 [[Cookbook|Return]] 
 ## Ingredients (2 Litres)
 ___
-- [x] 500 g Water
-- [x] 400 g Rye Flour
-- [x] 200 g Sunflower Seeds
+- [ ] 500 g Water
+- [ ] 400 g Rye Flour
+- [ ] 200 g Sunflower Seeds
 - [ ] 50 g [[Refreshing Sourdough Starter|Sourdough Starter]]
 - [ ] 40 g Bread Flour
 - [ ] 40 g Flax Seeds
 - [ ] 40 g Blue Poppy Seeds
-- [x] 20 g Salt
+- [ ] 20 g Salt
 ## Walkthrough
 ___
 **Day 1**

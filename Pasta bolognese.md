@@ -1,17 +1,17 @@
 #Italian 
 ## Ingredients
 ___
-- [x] 400g [[Fresh Pasta|Pasta]]
-- [x] 250g Bacon, cubes
-- [x] 2 Onions, finely chopped
+- [ ] 400g [[Fresh Pasta|Pasta]]
+- [ ] 250g Bacon, cubes
+- [ ] 2 Onions, finely chopped
 - [ ] 2 sticks of celery, roughly chopped
-- [x] 2 Cloves of garlic
-- [x] 2 Sticks of fresh thyme (or 2 tsp dried)
-- [x] 500g minced beef
-- [x] 2 Cans chopped tomatoes
-- [x] 1 Tsp Marmite
-- [x] Parmigiano Reggiano or Grana Padano
-- [x] Salt and pepper
+- [ ] 2 Cloves of garlic
+- [ ] 2 Sticks of fresh thyme (or 2 tsp dried)
+- [ ] 500g minced beef
+- [ ] 2 Cans chopped tomatoes
+- [ ] 1 Tsp Marmite
+- [ ] Parmigiano Reggiano or Grana Padano
+- [ ] Salt and pepper
 
 ## Walkthrough
 ___

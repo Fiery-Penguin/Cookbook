@@ -23,16 +23,16 @@ ___
 
 **Sauce**
 - [ ] 1 dl Pineapple Juice
-- [ ] 1 dl Water
-- [ ] 2 Tbsp Sugar
-- [ ] 2 Tbsp Ketchup (30g)
+- [x] 1 dl Water
+- [x] 2 Tbsp Sugar (30 g)
+- [x] 2 Tbsp Ketchup (30g)
 - [ ] 2 Tbsp Sweet Chili sauce (20g)
 - [ ] 2 Tbsp Vinegar (20g)
-- [ ] 2 Tbsp Soy Sauce (20g)
+- [x] 2 Tbsp Soy Sauce (20g)
 - [ ] 2 Tbsp potato-starch (25g)
 
 **Additional**
-- [ ] 250 g rice (before cooked)
+- [x] 250 g rice (before cooked)
 - [ ] Spring onion
 ## Walkthrough
 ___

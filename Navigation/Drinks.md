@@ -1,17 +1,17 @@
-[[Gin Hass]]
-[[Basil Smash]]
-[[Københavnerstang]] *(empty)*
-[[Mango Mojito]]
-[[Moscow Mule]]
-[[Passion Fruit Martini]]
-[[Passion Fruit Mojito]]
-[[Rhubarb Collins]]
-[[Gin Daisy]]
-[[Blue Thyme]]
-[[Irish Coffee]]
-[[Rhuflower Spritz]] (Alcohol Free)\
-[[Radler]] (Alcohol Free)
-[[Mango Nojito]] (Alcohol Free)
-[[Strawberry Basil Smash]] (Alcohol Free)
-[[Shirley Temple]] (Alcohol Free)
-[[Rhu & Rose]] (Alcohol Free)
+- [Gin Hass](Gin%20Hass)
+- [Basil Smash](Basil%20Smash)
+- [Københavnerstang](Københavnerstang)*(empty)*
+- [Mango Mojito](Mango%20Mojito)
+- [Moscow Mule](Moscow%20Mule)
+- [Passion Fruit Martini](Passion%20Fruit%20Martini)
+- [Passion Fruit Mojito](Passion%20Fruit%20Mojito)
+- [Rhubarb Collins](Rhubarb%20Collins)
+- [Gin Daisy](Gin%20Daisy)
+- [Blue Thyme](Blue%20Thyme)
+- [Irish Coffee](Irish%20Coffee)
+- [Rhuflower Spritz](Rhuflower%20Spritz)(Alcohol Free)
+- [Radler](Radler)(Alcohol Free)
+- [Mango Nojito](Mango%20Nojito)(Alcohol Free)
+- [Strawberry Basil Smash](Strawberry%20Basil%20Smash)(Alcohol Free)
+- [Shirley Temple](Shirley%20Temple)(Alcohol Free)
+- [Rhu & Rose](Rhu%20&%20Rose)(Alcohol Free)

@@ -1,10 +1,10 @@
-[[Mushroom Smash Burger]]
-[[Fried Chicken Burger]]
-[[Pasta salad]]
-[[Chicken Mozzarella Pasta]]
-[[Sunset Fries Spice mix]]
-[[Slow cooked chicken]]
-[[Popcorn]]
-[[Lentil Patties]]
-[[Bean Burrito]]
-[[Microwave Popcorn]]
+- [Mushroom Smash Burger](Mushroom%20Smash%20Burger)
+- [Fried Chicken Burger](Fried%20Chicken%20Burger)
+- [Pasta salad](Pasta%20salad)
+- [Chicken Mozzarella Pasta](Chicken%20Mozzarella%20Pasta)
+- [Sunset Fries Spice mix](Sunset%20Fries%20Spice%20mix)
+- [Slow cooked chicken](Slow%20cooked%20chicken)
+- [Popcorn](Popcorn)
+- [Lentil Patties](Lentil%20Patties)
+- [Bean Burrito](Bean%20Burrito)
+- [Microwave Popcorn](Microwave%20Popcorn)

@@ -1,4 +1,4 @@
-[[Iced Tea]]
-[[Christmassy-beverage]] *(empty)*
-[[Hot Cocoa]]
-[[Chai The]] (empty)
+- [Iced Tea](Iced%20Tea)
+- [Christmassy-beverage](Christmassy-beverage) *(empty)*
+- [Hot Cocoa](Hot%20Cocoa)
+- [Chai The](Chai%20The) (empty)

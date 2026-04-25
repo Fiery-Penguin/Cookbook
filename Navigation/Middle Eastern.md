@@ -1,2 +1,2 @@
-[[Shawarma]] *(incomplete)*
-[[Lentil soup with coconut milk]]
+- [Shawarma](Shawarma)*(incomplete)*
+- [Lentil soup with coconut milk](Lentil%20soup%20with%20coconut%20milk)

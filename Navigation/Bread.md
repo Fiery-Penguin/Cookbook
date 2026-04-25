@@ -1,11 +1,11 @@
-[[Sourdough Bread]]
-[[Sourdough Focaccia]]
-[[Sourdough Pizza]]
-[[Sourdough Burger Bun]]
-[[Sunset Boulevard Buns]]
-[[Rye bread]]
-[[Tortilla]] *(empty)*
-[[Crêpes]]
-[[Fresh Pasta]]
-[[Refreshing Sourdough Starter|Sourdough Starter]]
-[[Pita]]
+- [Sourdough Bread](Sourdough%20Bread)
+- [Sourdough Focaccia](Sourdough%20Focaccia)
+- [Sourdough Pizza](Sourdough%20Pizza)
+- [Sourdough Burger Bun](Sourdough%20Burger%20Bun)
+- [Sunset Boulevard Buns](Sunset%20Boulevard%20Buns)
+- [Rye bread](Rye%20bread)
+- [Tortilla](Tortilla) *(empty)*
+- [Crêpes](Crêpes)
+- [Fresh Pasta](Fresh%20Pasta)
+- [Sourdough Starter](Refreshing%20Sourdough%20Starter)
+- [Pita](Pita)

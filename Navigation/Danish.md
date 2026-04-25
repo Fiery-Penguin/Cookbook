@@ -1,6 +1,6 @@
-[[Frikadeller]]
-[[Gravy]]
-[[Fødselsdagsboller]]
-[[Kagemand]]
-[[Pork Roast|Flæskesteg]]
-[[Flæskestegsandwich]] (incomplete)
+- [Frikadeller](Frikadeller)
+- [Gravy](Gravy)
+- [Fødselsdagsboller](Fødselsdagsboller)
+- [Kagemand](Kagemand)
+- [Flæskesteg](Pork%20Roast)
+- [Flæskestegsandwich](Flæskestegsandwich)(incomplete)

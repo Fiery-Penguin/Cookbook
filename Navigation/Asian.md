@@ -1,8 +1,8 @@
-[[Sweet and Sour Chicken]]
-[[KFC]] *(empty)*
-[[Stir-fry]] *(empty)*
-[[Korean minced meat and rice]]
-[[Chicken tikka karahi]] 
-[[Jeera rice]]
-[[Tom Kha Kai]]
-[[Sushi Rice]] (incomplete)
+- [Sweet and Sour Chicken](Sweet%20and%20Sour%20Chicken)
+- [KFC](KFC) *(empty)*
+- [Stir-fry](Stir-fry) *(empty)*
+- [Korean minced meat and rice](Korean%20minced%20meat%20and%20rice)
+- [Chicken tikka karahi](Chicken%20tikka%20karahi)
+- [Jeera rice](Jeera%20rice)
+- [Tom Kha Kai](Tom%20Kha%20Kai)
+- [Sushi Rice](Sushi%20Rice) (incomplete)

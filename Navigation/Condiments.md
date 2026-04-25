@@ -1,4 +1,4 @@
-[[Mayonnaise]] 
-[[Pickled Cucumber]]
-[[Honey Mustard]]
-[[BBQ Marinade]]
+- [Mayonnaise](Mayonnaise )
+- [Pickled Cucumber](Pickled%20Cucumber)
+- [Honey Mustard](Honey%20Mustard)
+- [BBQ Marinade](BBQ%20Marinade)

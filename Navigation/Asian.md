@@ -1,4 +1,4 @@
-- [Sweet and Sour Chicken](/Recipes/Sweet%20and%20Sour%20Chicken)
+- [Sweet and Sour Chicken](/Recipes/Sweet%20and%20Sour%20Chicken.md)
 - [KFC](KFC) *(empty)*
 - [Stir-fry](Stir-fry) *(empty)*
 - [Korean minced meat and rice](Korean%20minced%20meat%20and%20rice)

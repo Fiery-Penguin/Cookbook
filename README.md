@@ -1,19 +1,19 @@
 # Cuisines 
 ___
-#### [🍕 Southern European](Southern%20European.md)
-#### [🍣 Asian](Asian.md)
-#### [🥙 Middle Eastern](Middle%20Eastern.md)
-#### [🇩🇰 Danish](Danish.md)
-#### [📁 Mics.](Miscellaneous%20Foods.md)
+#### [🍕 Southern European](Navigation/Southern%20European.md)
+#### [🍣 Asian](Navigation/Asian.md)
+#### [🥙 Middle Eastern](Navigation/Middle%20Eastern.md)
+#### [🇩🇰 Danish](Navigation/Danish.md)
+#### [📁 Mics.](Navigation/Miscellaneous%20Foods.md)
 
 # Misc.
 ___
-#### [🥖 Bread](Bread.md)
-#### [🍰 Desserts](Desserts.md)
-#### [🫙 Condiments](Condiments.md)
+#### [🥖 Bread](Navigation/Bread.md)
+#### [🍰 Desserts](Navigation/Desserts.md)
+#### [🫙 Condiments](Navigation/Condiments.md)
 
 # Beverages
 ___
-#### [📁 Mics.](Misc%20Beverages.md)
-#### [🍸 Drinks](Drinks.md)
+#### [📁 Mics.](Navigation/Misc%20Beverages.md)
+#### [🍸 Drinks](Navigation/Drinks.md)
 

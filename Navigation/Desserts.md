@@ -1,4 +1,4 @@
-- [Brownie](Brownie)
-- [Annas Chocolate Babka (from Discord)](Annas%20Chocolate%20Babka%20(from%20Discord))*(incomplete)*
-- [Sourdough Cinnamon Roll](Sourdough%20Cinnamon%20Roll)*(empty)*
-- [French Toast](French%20Toast)
+- [Brownie](Brownie.md)
+- [Annas Chocolate Babka (from Discord)](Annas%20Chocolate%20Babka%20(from%20Discord).md)*(incomplete)*
+- [Sourdough Cinnamon Roll](Sourdough%20Cinnamon%20Roll.md)*(empty)*
+- [French Toast](French%20Toast.md)

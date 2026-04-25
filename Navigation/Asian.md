@@ -1,8 +1,8 @@
 - [Sweet and Sour Chicken](/Recipes/Sweet%20and%20Sour%20Chicken.md)
-- [KFC](KFC) *(empty)*
-- [Stir-fry](Stir-fry) *(empty)*
-- [Korean minced meat and rice](Korean%20minced%20meat%20and%20rice)
-- [Chicken tikka karahi](Chicken%20tikka%20karahi)
-- [Jeera rice](Jeera%20rice)
-- [Tom Kha Kai](Tom%20Kha%20Kai)
-- [Sushi Rice](Sushi%20Rice) (incomplete)
+- [KFC](KFC.md) *(empty)*
+- [Stir-fry](Stir-fry.md) *(empty)*
+- [Korean minced meat and rice](Korean%20minced%20meat%20and%20rice.md)
+- [Chicken tikka karahi](Chicken%20tikka%20karahi.md)
+- [Jeera rice](Jeera%20rice.md)
+- [Tom Kha Kai](Tom%20Kha%20Kai.md)
+- [Sushi Rice](Sushi%20Rice.md) (incomplete)

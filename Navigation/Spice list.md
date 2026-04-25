@@ -2,7 +2,7 @@
 - [ ] Cayenne
 - [ ] Paprika
 - [ ] Curry
-- [x] Garlic Powder
+- [ ] Garlic Powder
 - [ ] Onion powder
 - [ ] Cardemmon
 - [ ] Koriander

@@ -4,3 +4,4 @@
 - [Kagemand](/Recipes/Kagemand.md)
 - [Flæskesteg](/Recipes/Pork%20Roast.md)
 - [Flæskestegsandwich](/Recipes/Flæskestegsandwich.md)(incomplete)
+- [[Kartoffelsalat]]

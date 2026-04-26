@@ -1,7 +1,7 @@
 ___
 - [Pizza Toppings](/Recipes/Pizza%20Toppings.md)
 ___
-- [Sourdough Pizza](/Recipes/Sourdough%20Pizza.md)
+- [Sourdough Pizza](Sourdough%20Pizza.md)
 - [Fake Pasta carbonara](/Recipes/Fake%20Pasta%20carbonara.md)*(incomplete)*
 - [Pasta bolognese](/Recipes/Pasta%20bolognese.md)
 - [Lasagna](/Recipes/Lasagna.md)*(incomplete)*
